@@ -32,3 +32,4 @@ const myFunction = function(){
 console.log(typeof bigNumber)  // BigInt
 console.log(typeof undefined)
 console.log(typeof myObj)
+console.log(typeof isLogged)
